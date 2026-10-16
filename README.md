@@ -82,3 +82,8 @@ src/main/java/edu/eci/arsw/blueprints
    - Código fuente actualizado.
    - Swagger/OpenAPI habilitado.  
    - Clase `ApiResponse<T>` implementada.
+
+
+
+## cambiar el path base de los controladores a `/api/v1/blueprints`.
+
